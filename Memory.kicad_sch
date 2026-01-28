@@ -3989,6 +3989,28 @@
 			)
 		)
 	)
+	(global_label "PGM"
+		(shape input)
+		(at 76.2 162.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5f76bfa6-3334-49f4-9c43-3bdd88a468cf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 69.2234 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "A14"
 		(shape input)
 		(at 35.56 144.78 180)
@@ -5617,6 +5639,28 @@
 			)
 		)
 	)
+	(global_label "PGM"
+		(shape input)
+		(at 27.94 162.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e7e5d50e-36ab-4363-99ef-239a9a8415db")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 20.9634 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "A19"
 		(shape input)
 		(at 38.1 77.47 180)
@@ -5799,7 +5843,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-32_W15.24mm"
 			(at 99.06 134.62 0)
 			(effects
 				(font
@@ -6326,7 +6370,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-32_W15.24mm"
 			(at 52.07 134.62 0)
 			(effects
 				(font

@@ -4375,7 +4375,7 @@
 				)
 			)
 		)
-		(property "Value" "CONN_10x2"
+		(property "Value" "ATX POWER"
 			(at 186.69 113.03 0)
 			(effects
 				(font
@@ -4505,7 +4505,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 259.08 86.36 0)
 			(effects
 				(font
@@ -5106,7 +5106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 118.11 55.88 0)
 			(effects
 				(font
@@ -5346,7 +5346,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 187.96 60.96 0)
 			(effects
 				(font
@@ -5606,7 +5606,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 212.09 60.96 0)
 			(effects
 				(font
@@ -6469,7 +6469,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 200.66 54.61 0)
 			(effects
 				(font
