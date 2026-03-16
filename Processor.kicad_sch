@@ -22449,7 +22449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 176.53 194.31 0)
 			(effects
 				(font
@@ -23240,7 +23240,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 62.23 114.3 0)
 			(effects
 				(font
@@ -23313,7 +23313,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 84.582 30.48 90)
 			(effects
 				(font
@@ -23599,46 +23599,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "0be8a562-5945-4b14-9c55-387ee116220a")
+			(uuid "0be8a562-5945-4b14-9c55-387ee116220b")
 		)
 		(pin "6"
-			(uuid "61ff0c7f-be65-4257-bc1d-583397b96e6f")
+			(uuid "61ff0c7f-be65-4257-bc1d-583397b96e70")
 		)
 		(pin "7"
-			(uuid "91482329-e5bd-42dd-890d-964ebaddfea7")
+			(uuid "91482329-e5bd-42dd-890d-964ebaddfea8")
 		)
 		(pin "8"
-			(uuid "a332344e-420e-4d8c-9b15-101a2219e37b")
+			(uuid "a332344e-420e-4d8c-9b15-101a2219e37c")
 		)
 		(pin "12"
-			(uuid "3e723d02-8ed6-4a7a-88d3-7ef1ab33c7bf")
+			(uuid "3e723d02-8ed6-4a7a-88d3-7ef1ab33c7c0")
 		)
 		(pin "5"
-			(uuid "ae1e50cc-44bd-4825-8964-4979edb0c72b")
+			(uuid "ae1e50cc-44bd-4825-8964-4979edb0c72c")
 		)
 		(pin "2"
-			(uuid "b7cf75f1-4b6b-426e-b11e-da0de629ce6e")
+			(uuid "b7cf75f1-4b6b-426e-b11e-da0de629ce6f")
 		)
 		(pin "1"
-			(uuid "642cb854-59da-4b5d-815d-34060080e7e8")
+			(uuid "642cb854-59da-4b5d-815d-34060080e7e9")
 		)
 		(pin "4"
-			(uuid "bcb1281d-e47c-47ff-9b93-b6e2bddd91a9")
+			(uuid "bcb1281d-e47c-47ff-9b93-b6e2bddd91aa")
 		)
 		(pin "3"
-			(uuid "dafaa866-be91-49dd-a245-8ca0503a932d")
+			(uuid "dafaa866-be91-49dd-a245-8ca0503a932e")
 		)
 		(pin "11"
-			(uuid "b2d55580-c276-4177-954b-502f8d87f76f")
+			(uuid "b2d55580-c276-4177-954b-502f8d87f770")
 		)
 		(pin "10"
-			(uuid "a9645c8d-2e47-4dbc-8e6a-f1fb35c02d13")
+			(uuid "a9645c8d-2e47-4dbc-8e6a-f1fb35c02d14")
 		)
 		(pin "9"
-			(uuid "59c25289-bee7-485a-8c74-16af5d50f7f3")
+			(uuid "59c25289-bee7-485a-8c74-16af5d50f7f4")
 		)
 		(pin "13"
-			(uuid "48fbafb3-5c90-456f-ae56-5e7e5b380671")
+			(uuid "48fbafb3-5c90-456f-ae56-5e7e5b380672")
 		)
 		(instances
 			(project ""
@@ -23875,7 +23875,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
 			(at 65.7352 66.04 0)
 			(effects
 				(font
@@ -23945,7 +23945,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 22.352 107.95 90)
 			(effects
 				(font
@@ -24366,46 +24366,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "0be8a562-5945-4b14-9c55-387ee116220a")
+			(uuid "0be8a562-5945-4b14-9c55-387ee116220c")
 		)
 		(pin "6"
-			(uuid "61ff0c7f-be65-4257-bc1d-583397b96e6f")
+			(uuid "61ff0c7f-be65-4257-bc1d-583397b96e71")
 		)
 		(pin "7"
-			(uuid "91482329-e5bd-42dd-890d-964ebaddfea7")
+			(uuid "91482329-e5bd-42dd-890d-964ebaddfea9")
 		)
 		(pin "8"
-			(uuid "a332344e-420e-4d8c-9b15-101a2219e37b")
+			(uuid "a332344e-420e-4d8c-9b15-101a2219e37d")
 		)
 		(pin "12"
-			(uuid "3e723d02-8ed6-4a7a-88d3-7ef1ab33c7bf")
+			(uuid "3e723d02-8ed6-4a7a-88d3-7ef1ab33c7c1")
 		)
 		(pin "5"
-			(uuid "ae1e50cc-44bd-4825-8964-4979edb0c72b")
+			(uuid "ae1e50cc-44bd-4825-8964-4979edb0c72d")
 		)
 		(pin "2"
-			(uuid "b7cf75f1-4b6b-426e-b11e-da0de629ce6e")
+			(uuid "b7cf75f1-4b6b-426e-b11e-da0de629ce70")
 		)
 		(pin "1"
-			(uuid "642cb854-59da-4b5d-815d-34060080e7e8")
+			(uuid "642cb854-59da-4b5d-815d-34060080e7ea")
 		)
 		(pin "4"
-			(uuid "bcb1281d-e47c-47ff-9b93-b6e2bddd91a9")
+			(uuid "bcb1281d-e47c-47ff-9b93-b6e2bddd91ab")
 		)
 		(pin "3"
-			(uuid "dafaa866-be91-49dd-a245-8ca0503a932d")
+			(uuid "dafaa866-be91-49dd-a245-8ca0503a932f")
 		)
 		(pin "11"
-			(uuid "b2d55580-c276-4177-954b-502f8d87f76f")
+			(uuid "b2d55580-c276-4177-954b-502f8d87f771")
 		)
 		(pin "10"
-			(uuid "a9645c8d-2e47-4dbc-8e6a-f1fb35c02d13")
+			(uuid "a9645c8d-2e47-4dbc-8e6a-f1fb35c02d15")
 		)
 		(pin "9"
-			(uuid "59c25289-bee7-485a-8c74-16af5d50f7f3")
+			(uuid "59c25289-bee7-485a-8c74-16af5d50f7f5")
 		)
 		(pin "13"
-			(uuid "48fbafb3-5c90-456f-ae56-5e7e5b380671")
+			(uuid "48fbafb3-5c90-456f-ae56-5e7e5b380673")
 		)
 		(instances
 			(project ""
@@ -24631,7 +24631,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 162.2817 212.09 0)
 			(effects
 				(font
@@ -24727,46 +24727,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "0be8a562-5945-4b14-9c55-387ee116220a")
+			(uuid "0be8a562-5945-4b14-9c55-387ee116220d")
 		)
 		(pin "6"
-			(uuid "61ff0c7f-be65-4257-bc1d-583397b96e6f")
+			(uuid "61ff0c7f-be65-4257-bc1d-583397b96e72")
 		)
 		(pin "7"
-			(uuid "91482329-e5bd-42dd-890d-964ebaddfea7")
+			(uuid "91482329-e5bd-42dd-890d-964ebaddfeaa")
 		)
 		(pin "8"
-			(uuid "a332344e-420e-4d8c-9b15-101a2219e37b")
+			(uuid "a332344e-420e-4d8c-9b15-101a2219e37e")
 		)
 		(pin "12"
-			(uuid "3e723d02-8ed6-4a7a-88d3-7ef1ab33c7bf")
+			(uuid "3e723d02-8ed6-4a7a-88d3-7ef1ab33c7c2")
 		)
 		(pin "5"
-			(uuid "ae1e50cc-44bd-4825-8964-4979edb0c72b")
+			(uuid "ae1e50cc-44bd-4825-8964-4979edb0c72e")
 		)
 		(pin "2"
-			(uuid "b7cf75f1-4b6b-426e-b11e-da0de629ce6e")
+			(uuid "b7cf75f1-4b6b-426e-b11e-da0de629ce71")
 		)
 		(pin "1"
-			(uuid "642cb854-59da-4b5d-815d-34060080e7e8")
+			(uuid "642cb854-59da-4b5d-815d-34060080e7eb")
 		)
 		(pin "4"
-			(uuid "bcb1281d-e47c-47ff-9b93-b6e2bddd91a9")
+			(uuid "bcb1281d-e47c-47ff-9b93-b6e2bddd91ac")
 		)
 		(pin "3"
-			(uuid "dafaa866-be91-49dd-a245-8ca0503a932d")
+			(uuid "dafaa866-be91-49dd-a245-8ca0503a9330")
 		)
 		(pin "11"
-			(uuid "b2d55580-c276-4177-954b-502f8d87f76f")
+			(uuid "b2d55580-c276-4177-954b-502f8d87f772")
 		)
 		(pin "10"
-			(uuid "a9645c8d-2e47-4dbc-8e6a-f1fb35c02d13")
+			(uuid "a9645c8d-2e47-4dbc-8e6a-f1fb35c02d16")
 		)
 		(pin "9"
-			(uuid "59c25289-bee7-485a-8c74-16af5d50f7f3")
+			(uuid "59c25289-bee7-485a-8c74-16af5d50f7f6")
 		)
 		(pin "13"
-			(uuid "48fbafb3-5c90-456f-ae56-5e7e5b380671")
+			(uuid "48fbafb3-5c90-456f-ae56-5e7e5b380674")
 		)
 		(instances
 			(project ""
@@ -24869,7 +24869,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 81.28 29.21 0)
 			(effects
 				(font
@@ -25168,7 +25168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
 			(at 64.77 69.85 0)
 			(effects
 				(font
@@ -25990,7 +25990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 38.1 166.37 0)
 			(effects
 				(font
@@ -26465,7 +26465,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 32.512 107.95 90)
 			(effects
 				(font
@@ -26731,7 +26731,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 245.11 118.11 0)
 			(effects
 				(font
@@ -26801,7 +26801,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 153.67 331.47 0)
 			(effects
 				(font
@@ -27200,7 +27200,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 80.01 166.37 0)
 			(effects
 				(font
@@ -27557,7 +27557,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 76.2 67.818 90)
 			(effects
 				(font
@@ -27883,7 +27883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 			(at 76.2 71.882 90)
 			(effects
 				(font
@@ -28203,7 +28203,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 			(at 91.44 38.1 0)
 			(effects
 				(font
@@ -28830,46 +28830,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "0be8a562-5945-4b14-9c55-387ee116220a")
+			(uuid "0be8a562-5945-4b14-9c55-387ee116220e")
 		)
 		(pin "6"
-			(uuid "61ff0c7f-be65-4257-bc1d-583397b96e6f")
+			(uuid "61ff0c7f-be65-4257-bc1d-583397b96e73")
 		)
 		(pin "7"
-			(uuid "91482329-e5bd-42dd-890d-964ebaddfea7")
+			(uuid "91482329-e5bd-42dd-890d-964ebaddfeab")
 		)
 		(pin "8"
-			(uuid "a332344e-420e-4d8c-9b15-101a2219e37b")
+			(uuid "a332344e-420e-4d8c-9b15-101a2219e37f")
 		)
 		(pin "12"
-			(uuid "3e723d02-8ed6-4a7a-88d3-7ef1ab33c7bf")
+			(uuid "3e723d02-8ed6-4a7a-88d3-7ef1ab33c7c3")
 		)
 		(pin "5"
-			(uuid "ae1e50cc-44bd-4825-8964-4979edb0c72b")
+			(uuid "ae1e50cc-44bd-4825-8964-4979edb0c72f")
 		)
 		(pin "2"
-			(uuid "b7cf75f1-4b6b-426e-b11e-da0de629ce6e")
+			(uuid "b7cf75f1-4b6b-426e-b11e-da0de629ce72")
 		)
 		(pin "1"
-			(uuid "642cb854-59da-4b5d-815d-34060080e7e8")
+			(uuid "642cb854-59da-4b5d-815d-34060080e7ec")
 		)
 		(pin "4"
-			(uuid "bcb1281d-e47c-47ff-9b93-b6e2bddd91a9")
+			(uuid "bcb1281d-e47c-47ff-9b93-b6e2bddd91ad")
 		)
 		(pin "3"
-			(uuid "dafaa866-be91-49dd-a245-8ca0503a932d")
+			(uuid "dafaa866-be91-49dd-a245-8ca0503a9331")
 		)
 		(pin "11"
-			(uuid "b2d55580-c276-4177-954b-502f8d87f76f")
+			(uuid "b2d55580-c276-4177-954b-502f8d87f773")
 		)
 		(pin "10"
-			(uuid "a9645c8d-2e47-4dbc-8e6a-f1fb35c02d13")
+			(uuid "a9645c8d-2e47-4dbc-8e6a-f1fb35c02d17")
 		)
 		(pin "9"
-			(uuid "59c25289-bee7-485a-8c74-16af5d50f7f3")
+			(uuid "59c25289-bee7-485a-8c74-16af5d50f7f7")
 		)
 		(pin "13"
-			(uuid "48fbafb3-5c90-456f-ae56-5e7e5b380671")
+			(uuid "48fbafb3-5c90-456f-ae56-5e7e5b380675")
 		)
 		(instances
 			(project ""

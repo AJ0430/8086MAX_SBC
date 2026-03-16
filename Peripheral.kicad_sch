@@ -17663,7 +17663,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical"
 			(at 176.53 29.21 0)
 			(effects
 				(font
@@ -17757,7 +17757,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
 			(at 300.6852 365.76 0)
 			(effects
 				(font
@@ -17986,7 +17986,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 320.04 30.48 0)
 			(effects
 				(font
@@ -18054,7 +18054,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 24.13 379.73 0)
 			(effects
 				(font
@@ -18225,7 +18225,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 			(at 109.22 210.82 0)
 			(effects
 				(font
@@ -18402,7 +18402,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 24.13 412.75 0)
 			(effects
 				(font
@@ -18508,7 +18508,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 334.01 330.2 0)
 			(effects
 				(font
@@ -18711,7 +18711,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 104.14 401.32 0)
 			(effects
 				(font
@@ -19258,7 +19258,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical"
 			(at 109.22 292.1 0)
 			(effects
 				(font
@@ -19368,7 +19368,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 124.46 203.2 0)
 			(effects
 				(font
@@ -19472,7 +19472,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
 			(at 320.04 358.14 0)
 			(effects
 				(font
@@ -19542,7 +19542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 274.32 372.11 0)
 			(effects
 				(font
@@ -19679,7 +19679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
 			(at 324.8152 365.76 0)
 			(effects
 				(font
@@ -19747,7 +19747,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_IDC:IDC-Header_2x17_P2.54mm_Latch_Vertical"
 			(at 375.92 304.8 0)
 			(effects
 				(font
@@ -19979,7 +19979,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
 			(at 291.1348 365.76 0)
 			(effects
 				(font
@@ -20114,7 +20114,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
 			(at 295.91 358.14 0)
 			(effects
 				(font
@@ -20249,7 +20249,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 24.13 396.24 0)
 			(effects
 				(font
@@ -20420,7 +20420,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "7-5530843-0:TE_7-5530843-0"
 			(at 297.18 68.58 0)
 			(effects
 				(font
@@ -20668,7 +20668,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 24.13 364.49 0)
 			(effects
 				(font
@@ -20774,7 +20774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 71.12 193.04 0)
 			(effects
 				(font
@@ -21013,7 +21013,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 71.12 274.32 0)
 			(effects
 				(font
@@ -21119,7 +21119,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:C_Disc_D8.0mm_W2.5mm_P5.00mm"
 			(at 315.2648 365.76 0)
 			(effects
 				(font
@@ -21255,12 +21255,13 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_LCC:PLCC-44_THT-Socket"
 			(at 266.7 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" ""
@@ -21516,7 +21517,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 227.33 334.01 0)
 			(effects
 				(font
@@ -21584,7 +21585,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm"
 			(at 124.46 284.48 0)
 			(effects
 				(font
@@ -21757,7 +21758,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 276.86 359.41 0)
 			(effects
 				(font
@@ -21959,7 +21960,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 289.56 168.91 0)
 			(effects
 				(font
@@ -22038,7 +22039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 184.15 53.34 0)
 			(effects
 				(font
@@ -22176,7 +22177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PLCC84_MCH"
+		(property "Footprint" "Package_LCC:PLCC-84_29.3x29.3mm_P1.27mm"
 			(at 50.8 45.72 0)
 			(effects
 				(font
