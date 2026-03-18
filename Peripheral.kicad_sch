@@ -14625,6 +14625,28 @@
 			)
 		)
 	)
+	(global_label "8089EXT2"
+		(shape input)
+		(at 158.75 99.06 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5fa93cdd-9e2d-431f-b1c7-2953753bbc91")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.1088 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "5V-7"
 		(shape input)
 		(at 67.31 170.18 180)
@@ -14885,6 +14907,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "8089EXT1"
+		(shape input)
+		(at 158.75 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "72203fdc-848e-4958-a93f-53f1d3b25f4c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 171.1088 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -17728,7 +17772,7 @@
 			(uuid "a8f833c8-b5dc-40d8-b7cc-e2cdd949d7be")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U32")
 					(unit 1)
@@ -18184,7 +18228,7 @@
 			(uuid "3e825404-21b9-461c-8b46-bf478b437d2b")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "RN5")
 					(unit 1)
@@ -18356,7 +18400,7 @@
 			(uuid "97f34a42-2653-4ccc-b3aa-c75220e1ce4e")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U25")
 					(unit 5)
@@ -18533,7 +18577,7 @@
 			(uuid "c338ef14-b412-4992-998e-7338b8b51e90")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "J3")
 					(unit 1)
@@ -18704,7 +18748,7 @@
 			(uuid "97f34a42-2653-4ccc-b3aa-c75220e1ce4f")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U25")
 					(unit 3)
@@ -19013,7 +19057,7 @@
 			(uuid "97f34a42-2653-4ccc-b3aa-c75220e1ce50")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U25")
 					(unit 7)
@@ -19192,7 +19236,7 @@
 			(uuid "a9fed66c-cb04-4d92-b29b-37a0cdfb31d8")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U31")
 					(unit 1)
@@ -19740,7 +19784,7 @@
 			(uuid "97f34a42-2653-4ccc-b3aa-c75220e1ce51")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U25")
 					(unit 2)
@@ -20249,7 +20293,7 @@
 			(uuid "6a4299cb-d141-4c92-a9f4-0e00d034a3c3")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "J7")
 					(unit 1)
@@ -20520,7 +20564,7 @@
 			(uuid "f9154b93-4c10-4e7e-bd12-6bdb0b3c6a37")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "Y2")
 					(unit 1)
@@ -20761,7 +20805,7 @@
 			(uuid "97f34a42-2653-4ccc-b3aa-c75220e1ce52")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U25")
 					(unit 4)
@@ -21076,7 +21120,7 @@
 			(uuid "541721a2-7dd4-4e7e-a09c-3a6430ebcaa0")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "J6")
 					(unit 1)
@@ -21250,7 +21294,7 @@
 			(uuid "97f34a42-2653-4ccc-b3aa-c75220e1ce53")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U25")
 					(unit 6)
@@ -21356,7 +21400,7 @@
 			(uuid "2d1f3102-0daf-46b7-b9dc-51d2d2fb3929")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U3")
 					(unit 1)
@@ -21744,6 +21788,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 158.75 96.52 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b7b49550-7312-4a2f-9a78-d0860eded61f")
+		(property "Reference" "#PWR063"
+			(at 165.1 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 162.56 96.5199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 158.75 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00ae083f-a97e-4171-917b-3b9edcf284d6")
+		)
+		(instances
+			(project "8086MAX_SBC"
+				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
+					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 78.74 398.78 0)
 		(unit 1)
@@ -22066,7 +22177,7 @@
 			(uuid "c68534d6-5727-4001-8254-73180aed8f80")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U33")
 					(unit 1)
@@ -22307,7 +22418,7 @@
 			(uuid "97f34a42-2653-4ccc-b3aa-c75220e1ce54")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "U25")
 					(unit 1)
@@ -22383,6 +22494,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 158.75 93.98 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ca6a6792-fba0-42e6-8639-59988da28929")
+		(property "Reference" "#PWR062"
+			(at 165.1 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 162.56 93.9799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 158.75 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83183b37-8c9e-4c27-a9a2-7489adadf5ca")
+		)
+		(instances
+			(project "8086MAX_SBC"
+				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Jumper:Jumper_2_Open")
 		(at 276.86 359.41 90)
 		(unit 1)
@@ -22444,7 +22622,7 @@
 			(uuid "a5754ccc-b9f9-4609-abb0-0036f50c8a95")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "JP7")
 					(unit 1)
@@ -22655,7 +22833,7 @@
 			(uuid "816d6a64-186e-4d48-9ac0-cd744c63f383")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "J8")
 					(unit 1)
@@ -22728,7 +22906,7 @@
 			(uuid "9da85221-7f2f-4722-b24d-592310e7e620")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/130d313c-ef1b-459f-b12a-6a2f6b18a216"
 					(reference "JP5")
 					(unit 1)

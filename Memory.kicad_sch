@@ -6194,7 +6194,7 @@
 			(uuid "e8fa4606-2738-41e6-8275-5bbf4cfaa66d")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/b8d74ca8-74c7-478f-8512-a7f4ebe76f07"
 					(reference "U7")
 					(unit 1)
@@ -6494,7 +6494,7 @@
 			(uuid "56850659-dcec-42d8-a1c9-c8bf8c4de8c8")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/b8d74ca8-74c7-478f-8512-a7f4ebe76f07"
 					(reference "U10")
 					(unit 1)
@@ -6564,7 +6564,7 @@
 			(uuid "d31f52b0-85dc-4a1c-949b-ab1b1d9443ea")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/b8d74ca8-74c7-478f-8512-a7f4ebe76f07"
 					(reference "C6")
 					(unit 1)
@@ -6794,7 +6794,7 @@
 			(uuid "09621c0e-cb0a-4609-9abc-5a23a17feacc")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/b8d74ca8-74c7-478f-8512-a7f4ebe76f07"
 					(reference "C5")
 					(unit 1)
@@ -6931,7 +6931,7 @@
 			(uuid "75adf80a-34fb-40fd-84fe-5dd5643eba5e")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/b8d74ca8-74c7-478f-8512-a7f4ebe76f07"
 					(reference "R8")
 					(unit 1)
@@ -7134,7 +7134,7 @@
 			(uuid "1b0810a0-4172-484e-9254-9de4d21509c5")
 		)
 		(instances
-			(project ""
+			(project "8086MAX_SBC"
 				(path "/f3556896-fb91-4e69-9fe8-87bb2814f9d4/b8d74ca8-74c7-478f-8512-a7f4ebe76f07"
 					(reference "JP1")
 					(unit 1)
